@@ -29,3 +29,10 @@ int main() {
     cout << "Hexadecimal of " << num << " is: " << hex << endl;
     return 0;
 }
+
+
+
+// output
+
+// Enter a decimal number: 255
+// Hexadecimal of 255 is: FF
