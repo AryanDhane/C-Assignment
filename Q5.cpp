@@ -25,4 +25,8 @@ int main() {
 
 // output
 
-//
+// Enter real part of first complex number: 10
+// Enter imaginary part of first complex number: 12
+// Enter real part of second complex number: 13
+// Enter imaginary part of second complex number: 14
+// Sum = 23 + 26i
