@@ -14,3 +14,10 @@ int main() {
     cout << "Sum of the series is: " << sum << endl;
     return 0;
 }
+
+
+
+// output
+
+// Enter the value of n: 5
+// Sum of the series is: 35
